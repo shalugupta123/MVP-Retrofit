@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit MVP</string>
+    <string name="enter_name">Please click on Add button</string>
+</resources>
